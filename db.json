@@ -10,7 +10,7 @@
       "members": ["Csoon", "AMing", "Bando"]},
     { "id": 2, 
       "title": "BBQ weekend", 
-      "desc": "Let\'s gather in Sai Kong and depart together.", 
+      "desc": "Let's gather in Sai Kong and depart together.", 
       "image_url": "",
       "creator": "Csoon",
       "quota": 10,
