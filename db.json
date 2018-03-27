@@ -6,7 +6,14 @@
       "image_url": "",
       "creator": "Csoon",
       "quota": 6,
-      "members": ["Csoon", "AMing", "Bando"]}
+      "members": ["Csoon", "AMing", "Bando"]},
+    { "id": 2, 
+      "title": "BBQ weekend", 
+      "desc": "Lets gather in Sai Kong and depart together.", 
+      "image_url": "",
+      "creator": "Csoon",
+      "quota": 10,
+      "members": ["Csoon", "Cat", "SSss"]}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
