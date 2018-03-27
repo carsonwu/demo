@@ -23,7 +23,7 @@
       "creator": "Csoon",
       "quota": 0,
       "location": "Tai Wai",
-      "members": ["Csoon"]},
+      "members": ["Csoon"]}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
