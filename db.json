@@ -5,6 +5,7 @@
       "desc": "Whoever has a basketball, please bring! This is a half day activity, we will play basketball from 11:00 am to 1:00 pm and take a short break before we leave. Then we will have lunch together in Food Court and chat. Every one just feel free to leave if you desire.", 
       "image_url": "",
       "creator": "Csoon",
+      "location": "East TST",
       "quota": 6,
       "members": ["Csoon", "AMing", "Bando"]},
     { "id": 2, 
@@ -12,6 +13,7 @@
       "desc": "Lets gather in Sai Kong and depart together.", 
       "image_url": "",
       "creator": "Csoon",
+      "location": "Sai Kong",
       "quota": 10,
       "members": ["Csoon", "Cat", "SSss"]},
     { "id": 3, 
@@ -19,6 +21,7 @@
       "desc": "Please bring enough water and hiking suites will be better.", 
       "image_url": "",
       "creator": "AhSon",
+      "location": "Tai Tam Shui Tong",
       "quota": 0,
       "members": ["AhSon"]}
   ],
